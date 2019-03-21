@@ -21,7 +21,7 @@ https://www.inera.se/digitalisering/interoperabilitet/
 NHSconnect  
 https://nhsconnect.github.io/CareConnectAPI/api_workflow_encounter.html
 
-## the business stuff
+## Business stuff
 https://leanstack.com/leancanvas/
 
 
