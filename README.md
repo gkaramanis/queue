@@ -1,19 +1,19 @@
 ## Notes
 
-E-hälsomyndigheten
+E-hälsomyndigheten  
 https://www.ehalsomyndigheten.se/om-oss/
 
 
 ## Interoperability
-Nationellt patientöversikt
+Nationellt patientöversikt  
 https://www.inera.se/tjanster/nationell-patientoversikt-npo/Nationell-patientoversikt/#cf79d442-185b-4ce9-b14e-d0d62134188d  
 (Kolla priserna! https://www.inera.se/kundservice/priser/#nationell-patientoversikt)
 
 
-FHIR (API)
+FHIR (API)  
 http://hl7.org/fhir/
 
-Inera
+Inera  
 https://www.inera.se/digitalisering/interoperabilitet/
 
 ## the business stuff
