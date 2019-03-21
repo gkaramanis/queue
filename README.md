@@ -16,5 +16,18 @@ http://hl7.org/fhir/
 Inera  
 https://www.inera.se/digitalisering/interoperabilitet/
 
+NHSconnect
+https://nhsconnect.github.io/CareConnectAPI/api_workflow_encounter.html
+
 ## the business stuff
 https://leanstack.com/leancanvas/
+
+
+## EMR
+
+Cerner  
+https://code.cerner.com/start-coding
+https://www.cerner.com/se/en/solutions/partners-for-innovation
+
+Cosmic  
+https://developer.openservices.cambio.se/faq
