@@ -1,3 +1,5 @@
+![](queue.png)  
+
 ## Notes
 
 E-hälsomyndigheten  
