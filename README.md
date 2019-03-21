@@ -1,5 +1,4 @@
-# queue
-IFTTT for healthcare
+# Links
 
 E-hälsomyndigheten
 https://www.ehalsomyndigheten.se/om-oss/
