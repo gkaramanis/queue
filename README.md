@@ -11,3 +11,6 @@ http://hl7.org/fhir/
 
 Inera
 https://www.inera.se/digitalisering/interoperabilitet/
+
+## Business staff
+https://leanstack.com/leancanvas/
