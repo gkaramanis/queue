@@ -2,8 +2,7 @@
 
 ## Notes
 
-E-hälsomyndigheten  
-https://www.ehalsomyndigheten.se/om-oss/
+[E-hälsomyndigheten](https://www.ehalsomyndigheten.se/om-oss/)
 
 
 ## Interoperability
