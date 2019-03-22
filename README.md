@@ -23,7 +23,7 @@ https://leanstack.com/leancanvas/
 ## EMR
 
 Cerner  
-https://code.cerner.com/start-coding
+https://code.cerner.com/start-coding  
 https://www.cerner.com/se/en/solutions/partners-for-innovation
 
 Cosmic  
