@@ -10,7 +10,7 @@
 (Kolla priserna! https://www.inera.se/kundservice/priser/#nationell-patientoversikt)
 
 
-[FHIR (API](http://hl7.org/fhir/)
+[FHIR (API)](http://hl7.org/fhir/)
 
 [Inera](https://www.inera.se/digitalisering/interoperabilitet/)
 
