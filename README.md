@@ -28,3 +28,7 @@ https://www.cerner.com/se/en/solutions/partners-for-innovation
 
 Cosmic  
 https://developer.openservices.cambio.se/faq
+
+## Design
+
+https://www.simonmccade.com/blog/how-developers-and-tech-founders-can-turn-their-ideas-into-ui-design
